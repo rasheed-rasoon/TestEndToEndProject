@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6468" started-at="2019-03-08T16:37:26Z" finished-at="2019-03-08T16:37:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6468" started-at="2019-03-08T16:37:26Z" finished-at="2019-03-08T16:37:33Z">
+      <class name="androidDriver_appium.LenovoTabCalculator">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:androidDriver_appium.LenovoTabCalculator@33723e30]" name="beforeTest" is-config="true" duration-ms="19" started-at="2019-03-08T16:37:26Z" finished-at="2019-03-08T16:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:androidDriver_appium.LenovoTabCalculator@33723e30]" name="f" duration-ms="6426" started-at="2019-03-08T16:37:26Z" finished-at="2019-03-08T16:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- androidDriver_appium.LenovoTabCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
